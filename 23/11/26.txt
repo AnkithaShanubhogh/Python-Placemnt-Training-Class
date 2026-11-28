@@ -1,0 +1,9 @@
+the sliding window technique is a powerful algorithmic pattern used to process sequencial data -such arrays,strings or lists.
+
+types of sliding windows:
+1.fixed-size window:
+the window size statys constant.as the window slides one step to the right ,you add the new incoming elemnt at the rght edge and remove the outgoing element at the left edge.
+
+
+2.dynamic/variable-size window:
+the window expands or shrinks dynamically based on a specific condition 
